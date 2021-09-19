@@ -13,3 +13,18 @@ This repository is focused on solving Machine learning algorithm from scratch i.
   <p align="center">
   <img src="https://github.com/Nix-code/Machine-Learning-From-Scratch/blob/main/Logistic_Regression/Screenshot%20from%202021-09-18%2019-52-45.png" width="900" title="hover text">
   
+### K Nearest Neighbour from Scratch
+
+  <p> Sep 19 : KNN </p>
+  <h5> Code </h5>
+  <p align="center">
+  <img src="https://github.com/Nix-code/Machine-Learning-From-Scratch/blob/main/KNearestNeighbourScratch/code.png" width="900" title="hover text">
+  
+</p>
+
+  <h5> Output | Prediction </h5>
+  
+  <p align="center">
+  <img src="https://github.com/Nix-code/Machine-Learning-From-Scratch/blob/main/KNearestNeighbourScratch/output.png" width="900" title="hover text">
+  
+</p>
