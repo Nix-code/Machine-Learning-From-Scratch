@@ -44,3 +44,19 @@ This repository is focused on solving Machine learning algorithm from scratch i.
   <img src="https://github.com/Nix-code/Machine-Learning-From-Scratch/blob/main/KNearestNeighbourScratch/output.png" width="900" title="hover text">
   
 </p>
+  
+ ### Support vector Machines
+ <p> It is the basic implementation of the algorithm from scratch. Basic linear separation is done here. If the data was non-linear, then some kernel tricks should be done.
+ 
+    <h5> Code </h5>
+  <p align="center">
+  <img src="https://github.com/Nix-code/Machine-Learning-From-Scratch/blob/main/Support_vector_machines/one.png" width="900" title="hover text">
+  
+</p>
+ 
+  <p> Visualization </p>
+    <p align="center">
+  <img src="https://github.com/Nix-code/Machine-Learning-From-Scratch/blob/main/Support_vector_machines/two.png" width="900" title="hover text">
+  
+</p>
+ 
