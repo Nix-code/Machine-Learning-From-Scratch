@@ -20,7 +20,7 @@ This repository is focused on solving Machine learning algorithm from scratch i.
 ### Logistic Regression
 <p> Logistic regression is very useful for classification works.
 
-<h5> Today (sep 18- 2021 ) I implemented Logistic Regression from scratch
+
 
 <p align="center">
   <img src="https://github.com/Nix-code/Machine-Learning-From-Scratch/blob/main/Logistic_Regression/Screenshot%20from%202021-09-18%2019-52-32.png" width="900" title="hover text">
