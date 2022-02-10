@@ -1,4 +1,4 @@
-# Machine-Learning-From-Scratch
+# Machine-Learning-Algorithms-From-Scratch
 This repository is focused on solving Machine learning algorithm from scratch i.e without Scikit-learn library.
 ### Linear Regression
 <p> Linear Regression is used to find the relationship between two variables x and y.</p>
